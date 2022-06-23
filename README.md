@@ -1,8 +1,8 @@
-## Hello, im web-developer
+## 👋 Hello, im web-developer
 
-![Header](https://c.tenor.com/hWVDLPdSvxIAAAAM/young-obito.gif)
+![Header](https://thumbs.gfycat.com/BigFocusedCassowary-size_restricted.gif)
 
-## Language and Tools
+## 🔨 Language and Tools
 ![HTML5](https://img.shields.io/badge/HTML-090909?style=for-the-badge&logo=HTML5)
-![CSS3](https://img.shields.io/badge/CSS-090909?style=for-the-badge&logo=CSS3)
+![CSS3](https://img.shields.io/badge/CSS-090909?style=for-the-badge&logo=CSS3&colorLogo=4f78c4)
 ![JavaScript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=JavaScript)
