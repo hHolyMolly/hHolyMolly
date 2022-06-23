@@ -1,3 +1,3 @@
-![Header](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
+## Hello, im web-developer, my stack:
 
-![html](https://img.shields.io/badge/HTML-090909?style=for-the-badge&logo=html)
+![html](https://img.shields.io/badge/HTML-090909?style=for-the-badge&logo=html&logoColor=cc3535)
