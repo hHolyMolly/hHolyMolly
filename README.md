@@ -9,3 +9,4 @@
 ![React](https://img.shields.io/badge/React-090909?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/Redux-090909?style=for-the-badge&logo=Redux&logoColor=994DE4)
 ![TypeScript](https://img.shields.io/badge/TypeScript-090909?style=for-the-badge&logo=TypeScript)
+![Node](https://img.shields.io/badge/Node-090909?style=for-the-badge&logo=Node)
