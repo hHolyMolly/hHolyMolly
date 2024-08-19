@@ -6,6 +6,7 @@
 ![SASS](https://img.shields.io/badge/SASS-%23494F5C?style=for-the-badge&logo=SASS)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23494F5C?style=for-the-badge&logo=JavaScript)
 ![Gulp](https://img.shields.io/badge/Gulp-%23494F5C?style=for-the-badge&logo=Gulp)
+![Vite](https://img.shields.io/badge/Vite-%23494F5C?style=for-the-badge&logo=Vite)
 ![Webpack](https://img.shields.io/badge/Webpack-%23494F5C?style=for-the-badge&logo=Webpack)
 ![React](https://img.shields.io/badge/React-%23494F5C?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/Redux-%23494F5C?style=for-the-badge&logo=Redux&logoColor=994DE4)
