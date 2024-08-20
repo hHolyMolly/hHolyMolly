@@ -30,12 +30,12 @@ With a strong background in full-stack development, I focus on delivering high-q
 
 Feel free to contact me:
 
-[![Upwork](https://img.shields.io/badge/Upwork-%23494F5C?style=for-the-badge&logo=Upwork)](https://www.upwork.com/freelancers/~01e09b0d329f8d44b5)
-[![Freelancehunt](https://img.shields.io/badge/Freelancehunt-%23494F5C?style=for-the-badge&logo=freelance)](https://freelancehunt.com/freelancer/hHolyMolly.html)
-[![Weblancer](https://img.shields.io/badge/Weblancer-%23494F5C?style=for-the-badge&logo=web)](https://www.weblancer.net/users/H0lyM0lly/)
-[![Behance](https://img.shields.io/badge/Behance-%23494F5C?style=for-the-badge&logo=Behance)](https://www.behance.net/dmitrystotyka)
-[![Telegram](https://img.shields.io/badge/Telegram-%23494F5C?style=for-the-badge&logo=Telegram)](https://t.me/developer5417)
-[![Instagram](https://img.shields.io/badge/Instagram-%23494F5C?style=for-the-badge&logo=Instagram)](https://www.instagram.com/fontsize0px/)
+- [Upwork](https://www.upwork.com/freelancers/~01e09b0d329f8d44b5)
+- [Freelancehunt](https://freelancehunt.com/freelancer/hHolyMolly.html)
+- [Weblancer](https://www.weblancer.net/users/H0lyM0lly/)
+- [Behance](https://www.behance.net/dmitrystotyka)
+- [Telegram](https://t.me/developer5417)
+- [Instagram](https://www.instagram.com/fontsize0px/)
 
 ## Projects
 
