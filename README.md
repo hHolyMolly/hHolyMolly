@@ -24,7 +24,7 @@ Welcome to my GitHub profile. I specialize in creating dynamic and responsive we
 
 ## About Me
 
-With a strong background in front-end development, I focus on delivering high-quality user experiences through modern web technologies. I'm always eager to learn and grow in this ever-evolving field.
+With a strong background in full-stack development, I focus on delivering high-quality user experiences through modern web technologies. I'm always eager to learn and grow in this ever-evolving field.
 
 ## Get in Touch
 
