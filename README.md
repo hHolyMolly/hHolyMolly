@@ -18,6 +18,7 @@ Welcome to my GitHub profile. I specialize in creating dynamic and responsive we
 
 ### Back-End:
 ![Node.js](https://img.shields.io/badge/Node.js-%23494F5C?style=for-the-badge&logo=Node.js)
+![Express](https://img.shields.io/badge/Express-%23494F5C?style=for-the-badge&logo=Express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%23494F5C?style=for-the-badge&logo=MongoDB)
 
 ## About Me
