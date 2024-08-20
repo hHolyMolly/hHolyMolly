@@ -8,6 +8,7 @@ Welcome to my GitHub profile. I specialize in creating dynamic and responsive we
 ![HTML5](https://img.shields.io/badge/HTML-%23494F5C?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/CSS-%23494F5C?style=for-the-badge&logo=CSS3&logoColor=72A0F6)
 ![SASS](https://img.shields.io/badge/SASS-%23494F5C?style=for-the-badge&logo=SASS)
+![Tailwind](https://img.shields.io/badge/Tailwind-%23494F5C?style=for-the-badge&logo=Tailwind)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23494F5C?style=for-the-badge&logo=JavaScript)
 ![Gulp](https://img.shields.io/badge/Gulp-%23494F5C?style=for-the-badge&logo=Gulp)
 ![Vite](https://img.shields.io/badge/Vite-%23494F5C?style=for-the-badge&logo=Vite)
