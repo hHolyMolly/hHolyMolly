@@ -34,11 +34,16 @@ Feel free to contact me:
 - [Freelancehunt](https://freelancehunt.com/freelancer/hHolyMolly.html)
 - [Weblancer](https://www.weblancer.net/users/H0lyM0lly/)
 - [Behance](https://www.behance.net/dmitrystotyka)
+- [Telegram](https://t.me/developer5417)
+- [Instagram](https://www.instagram.com/fontsize0px/)
+
+![Upwork](https://img.shields.io/badge/Upwork-%23494F5C?style=for-the-badge&logo=Upwork)
+![Instagram](https://img.shields.io/badge/Instagram-%23494F5C?style=for-the-badge&logo=Instagram)
 
 ## Projects
 
 Explore some of my recent work:
 
-- [CrabsTap by $CRABS🦀](https://t.me/CrabsTap_bot)
+- [CrabsTap](https://t.me/CrabsTap_bot)
 - [Flower Shop](https://flower-shop-client.vercel.app/)
 - [React Food](https://hholymolly.github.io/React-Food/)
