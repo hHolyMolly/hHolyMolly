@@ -42,5 +42,5 @@ Feel free to contact me:
 Explore some of my recent work:
 
 - [$CRABS Telegram Web App](https://t.me/CrabsTap_bot) and [$CRABS Website](https://crabstoken.io/)
-- [ANPLUS]([https://flower-shop-client.vercel.app/](http://anplusmedia.com/))
+- [ANPLUS](http://anplusmedia.com/)
 - [React Food](https://hholymolly.github.io/React-Food/)
