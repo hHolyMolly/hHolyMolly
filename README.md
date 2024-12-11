@@ -18,6 +18,7 @@ Welcome to my GitHub profile. I specialize in creating dynamic and responsive we
 ![Next.js](https://img.shields.io/badge/Next.js-%23494F5C?style=for-the-badge&logo=Next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23494F5C?style=for-the-badge&logo=TypeScript)
 ![Prettier](https://img.shields.io/badge/Prettier-%23494F5C?style=for-the-badge&logo=Prettier)
+![ESLint](https://img.shields.io/badge/ESLint-%23494F5C?style=for-the-badge&logo=ESLint)
 
 ### Back-End:
 ![Node.js](https://img.shields.io/badge/Node.js-%23494F5C?style=for-the-badge&logo=Node.js)
