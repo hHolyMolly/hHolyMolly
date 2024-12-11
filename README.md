@@ -51,5 +51,6 @@ Feel free to contact me:
 Explore some of my recent work:
 
 - [$CRABS Telegram Web App](https://t.me/CrabsTap_bot) and [$CRABS Website](https://crabstoken.io/)
+- [Luppiter Banco Finanza](https://luppiterbancofinanza.com/)
 - [ANPLUS](http://anplusmedia.com/)
 - [React Food](https://hholymolly.github.io/React-Food/)
