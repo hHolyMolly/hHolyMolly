@@ -15,6 +15,7 @@ Welcome to my GitHub profile. I specialize in creating dynamic and responsive we
 ![Webpack](https://img.shields.io/badge/Webpack-%23494F5C?style=for-the-badge&logo=Webpack)
 ![React](https://img.shields.io/badge/React-%23494F5C?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/Redux-%23494F5C?style=for-the-badge&logo=Redux&logoColor=994DE4)
+![Next.js](https://img.shields.io/badge/Next.js-%23494F5C?style=for-the-badge&logo=Next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23494F5C?style=for-the-badge&logo=TypeScript)
 
 ### Back-End:
