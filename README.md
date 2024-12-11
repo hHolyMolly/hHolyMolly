@@ -19,14 +19,17 @@ Welcome to my GitHub profile. I specialize in creating dynamic and responsive we
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23494F5C?style=for-the-badge&logo=TypeScript)
 ![Prettier](https://img.shields.io/badge/Prettier-%23494F5C?style=for-the-badge&logo=Prettier)
 ![ESLint](https://img.shields.io/badge/ESLint-%23494F5C?style=for-the-badge&logo=ESLint)
-![npm](https://img.shields.io/badge/npm-%23494F5C?style=for-the-badge&logo=npm)
-![pm2](https://img.shields.io/badge/pm2-%23494F5C?style=for-the-badge&logo=pm2)
-![Nginx](https://img.shields.io/badge/Nginx-%23494F5C?style=for-the-badge&logo=Nginx)
 
 ### Back-End:
 ![Node.js](https://img.shields.io/badge/Node.js-%23494F5C?style=for-the-badge&logo=Node.js)
 ![Express](https://img.shields.io/badge/Express-%23494F5C?style=for-the-badge&logo=Express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%23494F5C?style=for-the-badge&logo=MongoDB)
+
+### DevOps & Deployment:
+![Cloudflare](https://img.shields.io/badge/Cloudflare-%23494F5C?style=for-the-badge&logo=Cloudflare)
+![npm](https://img.shields.io/badge/npm-%23494F5C?style=for-the-badge&logo=npm)
+![pm2](https://img.shields.io/badge/pm2-%23494F5C?style=for-the-badge&logo=pm2)
+![Nginx](https://img.shields.io/badge/Nginx-%23494F5C?style=for-the-badge&logo=Nginx)
 
 ## About Me
 
