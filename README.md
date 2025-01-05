@@ -10,6 +10,8 @@ Welcome to my GitHub profile. I specialize in creating dynamic and responsive we
 ![BEM](https://img.shields.io/badge/BEM-%23494F5C?style=for-the-badge&logo=BEM&logoColor=72A0F6)
 ![SASS](https://img.shields.io/badge/SASS-%23494F5C?style=for-the-badge&logo=SASS)
 ![Tailwindcss](https://img.shields.io/badge/Tailwindcss-%23494F5C?style=for-the-badge&logo=Tailwindcss)
+![CSS Modules](https://img.shields.io/badge/CSS%20Modules-%23494F5C?style=for-the-badge&logo=cssmodules)
+![styled-components](https://img.shields.io/badge/styled--components-%23494F5C?style=for-the-badge&logo=styledcomponents)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23494F5C?style=for-the-badge&logo=JavaScript)
 ![Gulp](https://img.shields.io/badge/Gulp-%23494F5C?style=for-the-badge&logo=Gulp)
 ![Vite](https://img.shields.io/badge/Vite-%23494F5C?style=for-the-badge&logo=Vite)
