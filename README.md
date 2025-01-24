@@ -31,6 +31,7 @@ Welcome to my GitHub profile. I specialize in creating dynamic and responsive we
 ### DevOps & Deployment:
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-%23494F5C?style=for-the-badge&logo=Cloudflare)
 ![npm](https://img.shields.io/badge/npm-%23494F5C?style=for-the-badge&logo=npm)
+![pnpm](https://img.shields.io/badge/pnpm-%23494F5C?style=for-the-badge&logo=pnpm)
 ![pm2](https://img.shields.io/badge/pm2-%23494F5C?style=for-the-badge&logo=pm2)
 ![Nginx](https://img.shields.io/badge/Nginx-%23494F5C?style=for-the-badge&logo=Nginx)
 
