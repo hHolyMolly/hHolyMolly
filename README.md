@@ -23,6 +23,7 @@ Welcome to my GitHub profile. I specialize in creating dynamic and responsive we
 ![Electron](https://img.shields.io/badge/Electron-%23494F5C?style=for-the-badge&logo=Electron)
 ![Prettier](https://img.shields.io/badge/Prettier-%23494F5C?style=for-the-badge&logo=Prettier)
 ![ESLint](https://img.shields.io/badge/ESLint-%23494F5C?style=for-the-badge&logo=ESLint)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-%23494F5C?style=for-the-badge&logo=Socket.IO&logoColor=white)
 
 ### Back-End:
 ![Node.js](https://img.shields.io/badge/Node.js-%23494F5C?style=for-the-badge&logo=Node.js)
