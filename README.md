@@ -37,6 +37,7 @@ Welcome to my GitHub profile. I specialize in creating dynamic and responsive we
 ![pnpm](https://img.shields.io/badge/pnpm-%23494F5C?style=for-the-badge&logo=pnpm)
 ![pm2](https://img.shields.io/badge/pm2-%23494F5C?style=for-the-badge&logo=pm2)
 ![Nginx](https://img.shields.io/badge/Nginx-%23494F5C?style=for-the-badge&logo=Nginx)
+![Docker](https://img.shields.io/badge/Docker-%23494F5C?style=for-the-badge&logo=Docker)
 
 ## About Me
 
@@ -60,5 +61,6 @@ Explore some of my recent work:
 - [EXTON BOT](https://t.me/exton) and [EXTON Website](https://exton.io)
 - [$CRABS Telegram Web App](https://t.me/CrabsTap_bot) and [$CRABS Website](https://crabstoken.io/)
 - [React Food](https://hholymolly.github.io/React-Food/)
+
 
 
