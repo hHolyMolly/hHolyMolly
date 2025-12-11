@@ -58,9 +58,9 @@ Feel free to contact me:
 
 Explore some of my recent work:
 
-- [EXTON BOT](https://t.me/exton) and [EXTON Website](https://exton.io)
 - [$CRABS Telegram Web App](https://t.me/CrabsTap_bot) and [$CRABS Website](https://crabstoken.io/)
 - [React Food](https://hholymolly.github.io/React-Food/)
+
 
 
 
