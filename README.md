@@ -25,6 +25,7 @@ Welcome to my GitHub profile. I specialize in creating dynamic and responsive we
 ![ESLint](https://img.shields.io/badge/ESLint-%23494F5C?style=for-the-badge&logo=ESLint)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-%23494F5C?style=for-the-badge&logo=Socket.IO&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-%23494F5C?style=for-the-badge&logo=Prisma&logoColor=white)
+![Orval](https://img.shields.io/badge/Orval-%23494F5C?style=for-the-badge&logo=Orval&logoColor=white)
 
 ### Back-End:
 ![Node.js](https://img.shields.io/badge/Node.js-%23494F5C?style=for-the-badge&logo=Node.js)
@@ -60,6 +61,7 @@ Explore some of my recent work:
 
 - [$CRABS Telegram Web App](https://t.me/CrabsTap_bot) and [$CRABS Website](https://crabstoken.io/)
 - [React Food](https://hholymolly.github.io/React-Food/)
+
 
 
 
