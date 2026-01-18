@@ -30,6 +30,7 @@ Welcome to my GitHub profile. I specialize in creating dynamic and responsive we
 ![Node.js](https://img.shields.io/badge/Node.js-%23494F5C?style=for-the-badge&logo=Node.js)
 ![Express](https://img.shields.io/badge/Express-%23494F5C?style=for-the-badge&logo=Express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%23494F5C?style=for-the-badge&logo=MongoDB)
+![Python](https://img.shields.io/badge/Python-%23494F5C?style=for-the-badge&logo=Python)
 
 ### DevOps & Deployment:
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-%23494F5C?style=for-the-badge&logo=Cloudflare)
@@ -61,6 +62,7 @@ Explore some of my recent work:
 - [WorkPermit](http://workpermit.support)
 - [$CRABS Telegram Web App](https://t.me/CrabsTap_bot) and [$CRABS Website](https://crabstoken.io/)
 - [React Food](https://hholymolly.github.io/React-Food/)
+
 
 
 
