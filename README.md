@@ -58,6 +58,7 @@ Feel free to contact me:
 
 Explore some of my recent work:
 
+- [WorkPermit](http://workpermit.support)
 - [$CRABS Telegram Web App](https://t.me/CrabsTap_bot) and [$CRABS Website](https://crabstoken.io/)
 - [React Food](https://hholymolly.github.io/React-Food/)
 
