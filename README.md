@@ -48,6 +48,7 @@ With a strong background in full-stack development, I focus on delivering high-q
 Feel free to contact me:
 
 - [Upwork](https://www.upwork.com/freelancers/~01e09b0d329f8d44b5)
+- [Fiverr](https://www.fiverr.com/hollymolly_dev)
 - [Freelancehunt](https://freelancehunt.com/freelancer/hHolyMolly.html)
 - [Weblancer](https://www.weblancer.net/users/H0lyM0lly/)
 - [Behance](https://www.behance.net/dmitrystotyka)
