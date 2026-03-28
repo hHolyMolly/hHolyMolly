@@ -47,8 +47,8 @@ With a strong background in full-stack development, I focus on delivering high-q
 
 Feel free to contact me:
 
-- [Upwork](https://www.upwork.com/freelancers/~01e09b0d329f8d44b5)
 - [Fiverr](https://www.fiverr.com/hollymolly_dev)
+- [Upwork](https://www.upwork.com/freelancers/~01e09b0d329f8d44b5)
 - [Freelancehunt](https://freelancehunt.com/freelancer/hHolyMolly.html)
 - [Weblancer](https://www.weblancer.net/users/H0lyM0lly/)
 - [Behance](https://www.behance.net/dmitrystotyka)
@@ -60,7 +60,7 @@ Feel free to contact me:
 Explore some of my recent work:
 
 - [WorkPermit](http://workpermit.support)
-- [$CRABS Telegram Web App](https://t.me/CrabsTap_bot) and [$CRABS Website](https://crabstoken.io/)
+- [VisavPL](https://visav.pl/)
 - [React Food](https://hholymolly.github.io/React-Food/)
 
 
