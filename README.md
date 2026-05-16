@@ -1,74 +1,79 @@
-# 👋 Hello! I'm a Full-Stack Developer
+# Driver License Status Probe (Poland / info-car.pl)
 
-Welcome to my GitHub profile. I specialize in creating dynamic and responsive web applications. Here's a glimpse into the technologies I use and the projects I’m passionate about.
+CLI-скрипт на Node.js + TypeScript, который:
 
-## Technology Stack
+1. Перебирает наиболее вероятные REST-эндпоинты info-car.pl для проверки статуса prawa jazdy.
+2. При отсутствии рабочего API автоматически запускает fallback через Playwright (headless браузер) и пытается пройти веб-флоу как пользователь.
+3. Возвращает структурированный JSON-результат.
 
-### Front-End:
-![HTML5](https://img.shields.io/badge/HTML-%23494F5C?style=for-the-badge&logo=HTML5)
-![CSS](https://img.shields.io/badge/CSS-%23494F5C?style=for-the-badge&logo=CSS&logoColor=72A0F6)
-![BEM](https://img.shields.io/badge/BEM-%23494F5C?style=for-the-badge&logo=BEM&logoColor=72A0F6)
-![SASS](https://img.shields.io/badge/SASS-%23494F5C?style=for-the-badge&logo=SASS)
-![Tailwindcss](https://img.shields.io/badge/Tailwindcss-%23494F5C?style=for-the-badge&logo=Tailwindcss)
-![CSS Modules](https://img.shields.io/badge/CSS%20Modules-%23494F5C?style=for-the-badge&logo=cssmodules)
-![styled-components](https://img.shields.io/badge/styled--components-%23494F5C?style=for-the-badge&logo=styledcomponents)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23494F5C?style=for-the-badge&logo=JavaScript)
-![Gulp](https://img.shields.io/badge/Gulp-%23494F5C?style=for-the-badge&logo=Gulp)
-![Vite](https://img.shields.io/badge/Vite-%23494F5C?style=for-the-badge&logo=Vite)
-![Webpack](https://img.shields.io/badge/Webpack-%23494F5C?style=for-the-badge&logo=Webpack)
-![React](https://img.shields.io/badge/React-%23494F5C?style=for-the-badge&logo=React)
-![Redux](https://img.shields.io/badge/Redux-%23494F5C?style=for-the-badge&logo=Redux&logoColor=994DE4)
-![Next](https://img.shields.io/badge/Next-%23494F5C?style=for-the-badge&logo=Next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23494F5C?style=for-the-badge&logo=TypeScript)
-![Electron](https://img.shields.io/badge/Electron-%23494F5C?style=for-the-badge&logo=Electron)
-![Prettier](https://img.shields.io/badge/Prettier-%23494F5C?style=for-the-badge&logo=Prettier)
-![ESLint](https://img.shields.io/badge/ESLint-%23494F5C?style=for-the-badge&logo=ESLint)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-%23494F5C?style=for-the-badge&logo=Socket.IO&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-%23494F5C?style=for-the-badge&logo=Prisma&logoColor=white)
+## ⚠️ Важные юридические и privacy-предупреждения
 
-### Back-End:
-![Node.js](https://img.shields.io/badge/Node.js-%23494F5C?style=for-the-badge&logo=Node.js)
-![Express](https://img.shields.io/badge/Express-%23494F5C?style=for-the-badge&logo=Express)
-![MongoDB](https://img.shields.io/badge/MongoDB-%23494F5C?style=for-the-badge&logo=MongoDB)
+- Этот проект предназначен для технического исследования и внутреннего тестирования.
+- Работа с персональными данными (имя, фамилия, PESEL, номера документов) подпадает под GDPR/RODO.
+- Использование недокументированных API и автоматизации внешнего сервиса может нарушать ToS владельца ресурса.
+- Перед коммерческим использованием проконсультируйтесь с юристом и обеспечьте правовое основание обработки ПДн.
+- В логах и демо-примерах используйте только маскированные данные.
 
-### DevOps & Deployment:
-![Cloudflare](https://img.shields.io/badge/Cloudflare-%23494F5C?style=for-the-badge&logo=Cloudflare)
-![npm](https://img.shields.io/badge/npm-%23494F5C?style=for-the-badge&logo=npm)
-![pnpm](https://img.shields.io/badge/pnpm-%23494F5C?style=for-the-badge&logo=pnpm)
-![pm2](https://img.shields.io/badge/pm2-%23494F5C?style=for-the-badge&logo=pm2)
-![Nginx](https://img.shields.io/badge/Nginx-%23494F5C?style=for-the-badge&logo=Nginx)
-![Docker](https://img.shields.io/badge/Docker-%23494F5C?style=for-the-badge&logo=Docker)
+## Что проверяет API probe
 
-## About Me
+Реализован перебор следующих кандидатов:
 
-With a strong background in full-stack development, I focus on delivering high-quality user experiences through modern web technologies. I'm always eager to learn and grow in this ever-evolving field.
+- `GET  https://info-car.pl/api/prawojazdy/status?firstName=...&lastName=...&pesel=...`
+- `POST https://info-car.pl/api/prawojazdy/check`
+- `POST https://info-car.pl/api/driving-license/status`
+- `GET  https://info-car.pl/services/driving-licence/{pesel}`
+- `POST https://info-car.pl/ibdkSearchPrawoJazdy/search`
+- `POST https://info-car.pl/dl-status/api/v1/status`
+- `GET  https://info-car.pl/api/dl/status`
+- `POST https://info-car.pl/new/api/prawo-jazdy/status`
+- `POST https://info-car.pl/sprawdz-status-prawa-jazdy`
 
-## Get in Touch
+## Установка
 
-Feel free to contact me:
+```bash
+npm install
+npx playwright install chromium
+```
 
-- [Fiverr](https://www.fiverr.com/hollymolly_dev)
-- [Upwork](https://www.upwork.com/freelancers/~01e09b0d329f8d44b5)
-- [Freelancehunt](https://freelancehunt.com/freelancer/hHolyMolly.html)
-- [Weblancer](https://www.weblancer.net/users/H0lyM0lly/)
-- [Behance](https://www.behance.net/dmitrystotyka)
-- [Telegram](https://t.me/developer5417)
-- [Instagram](https://www.instagram.com/fontsize0px/)
+## Запуск
 
-## Projects
+```bash
+npm run dev -- --firstName Jan --lastName Kowalski --pesel 12345678901
+```
 
-Explore some of my recent work:
+или после сборки:
 
-- [WorkPermit](http://workpermit.support)
-- [VisavPL](https://visav.pl/)
-- [React Food](https://hholymolly.github.io/React-Food/)
+```bash
+npm run build
+npm start -- --firstName Jan --lastName Kowalski --pesel 12345678901
+```
 
+Можно также передать `--documentNumber` или `--applicationNumber`.
 
+## Пример JSON-ответа
 
+```json
+{
+  "success": true,
+  "strategy": "api",
+  "inputMasked": {
+    "firstName": "J***",
+    "lastName": "K***",
+    "pesel": "*******8901"
+  },
+  "result": {
+    "endpoint": "https://info-car.pl/api/...",
+    "method": "POST",
+    "httpStatus": 200,
+    "statuses": ["Wniosek przyjęty", "Dokument zamówiony"]
+  },
+  "attempts": []
+}
+```
 
+## Структура файлов
 
-
-
-
-
-
+- `src/api_probe.ts` — зонд для проверки REST-эндпоинтов.
+- `src/playwright_fallback.ts` — headless fallback через Playwright.
+- `src/index.ts` — CLI entrypoint и JSON-вывод.
+- `.gitignore`, `package.json`, `tsconfig.json` — базовая инфраструктура проекта.
