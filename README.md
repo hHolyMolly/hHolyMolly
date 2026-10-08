@@ -84,7 +84,6 @@ Open to freelance projects and long-term collaboration.
 | --- | --- | --- |
 | [next-template](https://github.com/hHolyMolly/next-template) | Next.js starter: i18n, Redux Toolkit, SCSS modules, pnpm | [Demo](https://next-template-demo.vercel.app) |
 | [gulp-template](https://github.com/hHolyMolly/gulp-template) | Gulp starter for static sites: SCSS, JS modules, minification, sprites | [Demo](https://gulp-template-seven.vercel.app/) |
-| [electron-template](https://github.com/hHolyMolly/electron-template) | Electron + TypeScript starter for desktop apps | — |
 
 ## How I work
 
